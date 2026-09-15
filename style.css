@@ -12,7 +12,7 @@ body {
     line-height: 1.00;
 }
 
-h1. h2. h3 {
+h1, h2, h3 {
     font-family: "DM Serif Display", Georgia, 'Times New Roman', Times, serif; 
     font-weight: 400;
 }
